@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="D:\pub_cache\hosted\pub.dev\isar_flutter_libs-3.1.0+1\android"
+    name=":isar_flutter_libs"
+    type="LIBRARY"
+    maven="dev.isar.isar_flutter_libs:isar_flutter_libs:1.0"
+    agpVersion="8.7.0"
+    buildFolder="build"
+    bootClassPath="C:\Users\brvox\AppData\Local\Android\sdk\platforms\android-30\android.jar;C:\Users\brvox\AppData\Local\Android\sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-30"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

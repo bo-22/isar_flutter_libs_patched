@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "dev.isar.isar_flutter_libs-release-23:/animator/fragment_close_enter.xml",
+        "source": "dev.isar.isar_flutter_libs-fragment-1.7.1-15:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "dev.isar.isar_flutter_libs-release-23:/animator/fragment_close_exit.xml",
+        "source": "dev.isar.isar_flutter_libs-fragment-1.7.1-15:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "dev.isar.isar_flutter_libs-release-23:/animator/fragment_fade_enter.xml",
+        "source": "dev.isar.isar_flutter_libs-fragment-1.7.1-15:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "dev.isar.isar_flutter_libs-release-23:/animator/fragment_open_exit.xml",
+        "source": "dev.isar.isar_flutter_libs-fragment-1.7.1-15:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "dev.isar.isar_flutter_libs-release-23:/animator/fragment_fade_exit.xml",
+        "source": "dev.isar.isar_flutter_libs-fragment-1.7.1-15:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "dev.isar.isar_flutter_libs-release-23:/animator/fragment_open_enter.xml",
+        "source": "dev.isar.isar_flutter_libs-fragment-1.7.1-15:/animator/fragment_open_enter.xml"
+    }
+]
